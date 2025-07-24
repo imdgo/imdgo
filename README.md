@@ -1,7 +1,3 @@
-<!--
-  Estrutura do README identada para melhor leitura e manutenção.
--->
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -30,6 +26,7 @@
 ###
 
 <div align="left">
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   
