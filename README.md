@@ -27,7 +27,7 @@
 
 <div align="left">
 
-  <h4>🎨 Frontend</h4>
+  <h4>🎨 Frontend: </h4>
   <div style="display: flex; gap: 12px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS logo" />
@@ -38,7 +38,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
   </div>
 
-  <h4>⚙ Backend</h4>
+  <h4>⚙ Backend: </h4>
   <div style="display: flex; gap: 12px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET logo" />
@@ -47,13 +47,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="NestJS logo" />
   </div>
 
-  <h4>🗄 Databases</h4>
+  <h4>🗄 Databases: </h4>
   <div style="display: flex; gap: 12px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" />
   </div>
 
-  <h4>🛠 Tools & DevOps</h4>
+  <h4>🛠 Tools & DevOps: </h4>
   <div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo" />
@@ -62,10 +62,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="30" alt="Azure logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="30" alt="Azure DevOps logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="30" alt="ArgoCD logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg" height="30" alt="Elastic Search logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" height="30" alt="Elastic Search logo" />
   </div>
 
-  <h4>💻 Operating Systems</h4>
+  <h4>💻 Operating Systems: </h4>
   <div style="display: flex; gap: 12px; align-items: center;">
     <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows logo" />
@@ -77,7 +77,7 @@
 
 ###
 
-<h2 align="left">My Github Stats</h2>
+<h2 align="left">🚀 My Github Stats</h2>
 
 ###
 
