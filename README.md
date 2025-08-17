@@ -81,10 +81,9 @@
 
 ###
 
-<div align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=imdgo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imdgo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imdgo&theme=dracula&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdgo&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
+</p>
 
 ###
