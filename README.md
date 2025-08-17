@@ -75,7 +75,7 @@
 
 ###
 
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imdgo&theme=dracula&show_icons=true&hide_border=false&count_private=true"/>
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdgo&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
 </p>
